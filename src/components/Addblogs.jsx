@@ -18,7 +18,7 @@ const Addblogs = () => {
         </div>
         <br /><br />
         <div>
-        <Link to="{/}"><Button color='secondary' variant='contained'>Add Blog</Button></Link>
+        <Link to="{/}"><Button color='secondary' variant='contained'>Add Blogs</Button></Link>
         </div><br />
         
         
