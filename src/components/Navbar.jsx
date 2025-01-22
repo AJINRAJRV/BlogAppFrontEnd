@@ -13,7 +13,7 @@ const Navbar = () => {
                         BlogApp
                     </Typography>
                     <Link to='/home'><Button style={{color:'white'}}>Home</Button></Link>
-                    <Link to='/addblogs'><Button style={{color:'white'}}>Addblog</Button></Link>
+                    <Link to='/addblogs'><Button style={{color:'white'}}>Addblogs</Button></Link>
                 </Toolbar>
             </AppBar>
         </Box>
